@@ -1,4 +1,4 @@
 export default defineConfig({
-  base: '/Gryphon_SW/', // Add this line!
+  base: '/Gryphon_SW/',
   plugins: [react()],
 })
